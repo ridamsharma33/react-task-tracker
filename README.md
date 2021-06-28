@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Task Tracker 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple react task tracker application provides functionality of adding and removing a task with additional priority input.
 
 ## Available Scripts
 
